@@ -31,12 +31,12 @@ petdata.txt를 읽고 output.png와 같은 output을 내는 프로그램이다.
 
 다음의 operation 들을 수행하고 그 결과를 프린트한다.
 
-- Employee 5 명 추가 후, 임의의 위치의 2 명 해고, 이후 3 명을 임의의 위치에 추가
+- Employee 5명 추가 후, 임의의 위치의 2명 해고, 이후 3명을 임의의 위치에 추가
 - Employee 를 정렬 후 리스트를 보여줌 (정렬 기준: name, age 순서로 오름차순)
-- Product 10 개 추가, 정렬 후 리스트를 보여줌 (정렬 기준: name, amount, employee, sold 순서로
+- Product 10개 추가, 정렬 후 리스트를 보여줌 (정렬 기준: name, amount, employee, sold 순서로
 오름차순)
-- Customer 5 명 추가 후 보여 줌. 중복 허용하지 않음을 확인시켜야 함
-- Purchase 7 개 데이터 추가 후 보여줌.
+- Customer 5명 추가 후 보여 줌. 중복 허용하지 않음을 확인시켜야 함
+- Purchase 7개 데이터 추가 후 보여줌.
 
 ### **Python Projects**
 1. Neural Network
@@ -46,10 +46,14 @@ Show convergence of training by plotting loss versus number of epochs.
 
 2. Population Mean Estimator
 
-
+표본 자료를 통해 모평균(Population mean)을 점추정, 구간추정 (95% 신뢰수준) 하는 간단한 클래스 생성
 
 ### **R Projects**
 1. Dataframe Summary
 
+Dataframe을 input으로 받아 최소값, 평균, 중앙값, 최대값, 표준편차를 행렬로 변환하는 함수 생성
+
 2. CLT Plot
+
+이항분포(binomial distribution)로부터 표본 추출을 반복하는 시뮬레이션을 plotting하여 표본 평균의 분포가 근사적으로 종 모양의 정규분포를 따른다는 중심 극한 정리를 확인하는 코드
 
