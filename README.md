@@ -1,4 +1,4 @@
-Summary of Projects Written in R
+### **Summary of Projects Written in R**
 
 1. Dataframe Summary Function
 
