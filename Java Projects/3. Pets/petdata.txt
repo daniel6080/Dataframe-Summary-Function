@@ -1,0 +1,13 @@
+3
+Tom 2
+Dog hogi 5 yellow houseDog
+Cat nab 3 white longHair
+Jane 3
+Dog piko 2 black guideDog
+Cat horri 1 brown shortHair
+Bird pirrot 3 green 7
+John 3
+Bird woomi 2 yellow 5
+Cat muki 3 gray middleHair
+Cat samuel 5 darkGray longHair 
+
