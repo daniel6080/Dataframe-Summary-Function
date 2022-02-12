@@ -41,7 +41,12 @@ petdata.txt를 읽고 output.png와 같은 output을 내는 프로그램이다.
 ### **Python Projects**
 1. Neural Network
 
+Implement neural network with one input layer, one hidden layer, and one output layer via backpropagation method. (Layer size 2, 8, 1 respectively; Learning rate=0.01)
+Show convergence of training by plotting loss versus number of epochs.
+
 2. Population Mean Estimator
+
+
 
 ### **R Projects**
 1. Dataframe Summary
