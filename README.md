@@ -1,5 +1,8 @@
 ### **Python Projects**
 
+1. Neural Network
+
+2. Population Mean Estimator
 
 ### **R Projects**
 
