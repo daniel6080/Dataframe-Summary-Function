@@ -1,14 +1,3 @@
-### **Python Projects**
-1. Neural Network
-
-2. Population Mean Estimator
-
-### **R Projects**
-1. Dataframe Summary
-
-2. CLT Plot
-
-
 ### **Java Projects**
 1. Dice Game
 
@@ -48,3 +37,14 @@ petdata.txt를 읽고 output.png와 같은 output을 내는 프로그램이다.
 오름차순)
 - Customer 5 명 추가 후 보여 줌. 중복 허용하지 않음을 확인시켜야 함
 - Purchase 7 개 데이터 추가 후 보여줌.
+
+### **Python Projects**
+1. Neural Network
+
+2. Population Mean Estimator
+
+### **R Projects**
+1. Dataframe Summary
+
+2. CLT Plot
+
