@@ -1,3 +1,13 @@
+### **Python Projects**
+1. Neural Network
+
+Neural network with one input layer, one hidden layer, and one output layer via backpropagation method is implemented. (Layer size 2, 8, 1 respectively; Learning rate=0.01)
+Convergence of training is shown by plotting loss versus number of epochs.
+
+2. Population Mean Estimator
+
+표본 자료를 통해 모평균(Population mean)을 점추정, 구간추정 (95% 신뢰수준) 하는 간단한 클래스 생성.
+
 ### **Java Projects**
 1. Dice Game
 
@@ -32,16 +42,6 @@ Person 은 Pet(pet[i])들을 nPet 마리 가지고 있다.
 - Product 10개 추가, 정렬 후 리스트를 보여줌 (정렬 기준: name, amount, employee, sold 순서로 오름차순)
 - Customer 5명 추가 후 보여 줌. 중복 허용하지 않음을 확인시켜야 함
 - Purchase 7개 데이터 추가 후 보여줌
-
-### **Python Projects**
-1. Neural Network
-
-Neural network with one input layer, one hidden layer, and one output layer via backpropagation method is implemented. (Layer size 2, 8, 1 respectively; Learning rate=0.01)
-Convergence of training is shown by plotting loss versus number of epochs.
-
-2. Population Mean Estimator
-
-표본 자료를 통해 모평균(Population mean)을 점추정, 구간추정 (95% 신뢰수준) 하는 간단한 클래스 생성.
 
 ### **R Projects**
 1. Dataframe Summary
